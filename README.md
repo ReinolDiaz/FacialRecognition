@@ -13,3 +13,5 @@ Pictures are saved in same directory as FaceReader.py(picture directory coming s
 Can be adapted to record video.
 
 Pictures captures are saved in (day-month-year-hour-minute-second.png) format.
+
+press q to close capture window.
