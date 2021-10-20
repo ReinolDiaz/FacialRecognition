@@ -1,4 +1,4 @@
-#FacialRecognition
+# FacialRecognition
 
 Simple face recognition feature that snaps a picture if any face has been detected in the frame.
 
