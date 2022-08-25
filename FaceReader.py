@@ -37,7 +37,6 @@ while True:
         #creates rectangle for the face (location , (top left, bottom right), (color in BGR), Thickness of line)
         cv2.rectangle(frame, (x, y),(x + width, y + height), (0, 0, 255), 3)
 
-
     #if face or body detected take a pic
     if len(faces) + len(bodies) > 0:
         if detection:
